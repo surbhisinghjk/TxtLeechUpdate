@@ -1,6 +1,7 @@
 # TXT UPLOADER
 
 # 𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬 RAJ ™
+# NOT Working In VPS
 
 
 ## DEPLOY TO HEROKU
